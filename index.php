@@ -1,6 +1,6 @@
 <?php
 
-	echo "Hello World"
+	echo "Hello World";
 	// CORRECAO AGORA NEGAO
-
+	echo "Hotfix de teste";
 ?>
